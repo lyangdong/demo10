@@ -10,6 +10,7 @@ $(function() {
         }
     })
 });
+
 function myFunc(id,level){
     $.ajax({
         url: 'http://api.dangqian.com/apidiqu2/api.asp',
